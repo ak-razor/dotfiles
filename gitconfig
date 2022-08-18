@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ayelen.klas@razor-group.com
+	name = ayelen klas
